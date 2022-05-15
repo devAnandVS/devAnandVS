@@ -3,12 +3,13 @@
 👋 Hi, I’m **Anand Dev**.<br>
 I'm interested in 
 - Coding 
+- UI Design
 - Visual design
 
-I’m parallely learning
-- html
-- python
-- kotlin
+Currently, I’m learning 
+- `html`
+- `python`
+- `kotlin`
 
 📫 You can reach me at ananddevvs@protonmail.com
 
