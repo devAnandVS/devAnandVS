@@ -4,6 +4,7 @@
 
 Currently, I’m learning 
 - `html`
+- `css`
 - `python`
 - `kotlin`
 
