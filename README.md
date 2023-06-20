@@ -5,7 +5,7 @@
 Currently, I’m learning 
 - `html`
 - `css`
-- 'javascript'
+- `javascript`
 
 📫 You can reach me at ananddevvs@protonmail.com
 
