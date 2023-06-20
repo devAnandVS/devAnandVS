@@ -5,8 +5,7 @@
 Currently, I’m learning 
 - `html`
 - `css`
-- `python`
-- `kotlin`
+- 'javascript'
 
 📫 You can reach me at ananddevvs@protonmail.com
 
